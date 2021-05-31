@@ -1,3 +1,3 @@
 # LCCI & 劍指 Offer
-LCCI_practice
-Offer_practice
+1. LCCI_practice
+2. Offer_practice
